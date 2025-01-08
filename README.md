@@ -133,7 +133,7 @@ pip install pandas scikit-learn streamlit matplotlib seaborn
 ## screenshots
 ![cardekho1](https://github.com/user-attachments/assets/49a2ebe7-220f-44b0-888b-1116b71eb259)
 ![cardekho2](https://github.com/user-attachments/assets/d1a7d84c-0110-4c9d-b7b4-2201c05bc54a)
-
+![Screenshot 2025-01-08 134705](https://github.com/user-attachments/assets/a66bc8af-a920-466b-b658-b2541e65a79d)
 ![cardekho3](https://github.com/user-attachments/assets/9f85958e-f55d-43b5-9d71-50b46a34e0bc)
 ![cardekho4](https://github.com/user-attachments/assets/c0357144-083e-487c-93d4-e16cd5e17fcf)
 ![cardekho5](https://github.com/user-attachments/assets/e0d69a1b-d38f-4421-a3cb-2ee56bcf4d98)
