@@ -1,4 +1,4 @@
-# CarDekho-Insights-Predicting-Used-Car-Prices-with-Streamlit-and-ML
+# CarDekho-Predicting-Used-Car-Prices-with-Streamlit-and-ML
 # 🚗 Car Dheko - Used Car Price Prediction 💵  
 **Developed by:** Jagadesh Kumar Y  
 
