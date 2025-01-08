@@ -8,8 +8,7 @@
 - Project Overview  
 - Skills Takeaway  
 - Domain  
-- Problem Statement  
-- Project Scope  
+- Problem Statement   
 - Project Approach  
 - Results  
 - Project Evaluation Metrics  
@@ -47,13 +46,6 @@ This project aims to develop a machine learning model for accurately predicting 
 ## 📝 Problem Statement  
 **Objective**:  
 As a data scientist at Car Dheko, your task is to improve the customer experience by building an accurate and user-friendly Streamlit tool. This tool predicts used car prices based on multiple features and is deployed as an interactive web application for easy use by customers and sales representatives.
-
----
-
-## 📊 Project Scope  
-1. Access and preprocess a dataset of used car prices.  
-2. Develop a machine learning model for accurate price prediction.  
-3. Deploy the model as a Streamlit-based web application.  
 
 ---
 
