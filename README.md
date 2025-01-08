@@ -83,7 +83,7 @@ As a data scientist at Car Dheko, your task is to improve the customer experienc
 ---
 
 ## 📊 Project Evaluation Metrics  
-- **Model Performance**: MAE, MSE, R².  
+- **Model Performance**: MAE, MSE,RMSE, R².  
 - **Data Quality**: Completeness and accuracy of processed data.  
 - **Application Usability**: User feedback on the Streamlit app.  
 - **Documentation**: Clarity and thoroughness of the project report.  
